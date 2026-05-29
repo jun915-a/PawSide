@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Paw print: three toe beans and a large pad, in cream on the amber bg. -->
+    <group android:translateY="6">
+        <path
+            android:fillColor="#F6ECDD"
+            android:pathData="M38,40 a9,9 0 1,0 0.1,0 z" />
+        <path
+            android:fillColor="#F6ECDD"
+            android:pathData="M54,34 a9,9 0 1,0 0.1,0 z" />
+        <path
+            android:fillColor="#F6ECDD"
+            android:pathData="M70,40 a9,9 0 1,0 0.1,0 z" />
+        <path
+            android:fillColor="#F6ECDD"
+            android:pathData="M54,68 a19,16 0 1,0 0.1,0 z" />
+    </group>
+</vector>

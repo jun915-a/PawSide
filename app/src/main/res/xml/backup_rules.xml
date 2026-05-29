@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Dog assets live in internal files/dog_assets and DataStore prefs;
+         allow them to be backed up. -->
+</full-backup-content>

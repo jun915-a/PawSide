@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pawside</string>
+    <string name="widget_no_photo">写真未設定</string>
+    <string name="widget_description">ペットがスマホの調子を教えてくれます</string>
+</resources>
