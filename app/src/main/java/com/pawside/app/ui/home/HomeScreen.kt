@@ -106,7 +106,7 @@ private fun WidgetCard(onAddWidget: () -> Unit) {
             Text("ホーム画面ウィジェット", style = MaterialTheme.typography.titleLarge)
             Spacer(Modifier.height(4.dp))
             Text(
-                text = "Pawsideはウィジェットが主役です。ホーム画面に置くと、ロック解除時のお迎えやスマホの状態をペットが教えてくれます。",
+                text = "Pawsideはウィジェットが主役です。ホーム画面に置くと、スマホの状態をペットが教えてくれます。",
                 style = MaterialTheme.typography.bodyMedium,
             )
             Spacer(Modifier.height(12.dp))
